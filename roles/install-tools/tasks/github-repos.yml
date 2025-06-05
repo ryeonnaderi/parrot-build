@@ -10,6 +10,7 @@
     - { repo: "https://github.com/aboul3la/Sublist3r", location: "/opt/Sublist3r"}
     - { repo: "https://github.com/beefproject/beef", location: "/opt/beef"}
     - { repo: "https://github.com/greenbone/openvas-scanner", location: "/opt/openvas-scanner"}
+    
   become: true
   become_method: sudo
 
