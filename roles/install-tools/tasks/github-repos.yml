@@ -10,6 +10,12 @@
     - { repo: "https://github.com/aboul3la/Sublist3r", location: "/opt/Sublist3r"}
     - { repo: "https://github.com/beefproject/beef", location: "/opt/beef"}
     - { repo: "https://github.com/greenbone/openvas-scanner", location: "/opt/openvas-scanner"}
+    - { repo: "https://github.com/nicocha30/ligolo-ng", location: "/opt/ligolo-ng"}
+    - { repo: "https://github.com/Gerenios/AADInternals", location: "/opt/AADInternals"}
+    - { repo: "https://github.com/AzeemIdrisi/PhoneSploit-Pro", location: "/opt/PhoneSploit-Pro"}
+    - { repo: "https://github.com/EntySec/Ghost", location: "/opt/Ghost"}
+    - { repo: "https://github.com/brows3r/iPwn", location: "/opt/iPwn"}
+
     
   become: true
   become_method: sudo
