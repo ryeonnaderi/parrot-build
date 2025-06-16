@@ -53,6 +53,13 @@
       - gh
       - theharvester
       - ghidra
+      - ftp
+      - android-tools-adb
+      - dnsrecon
+      - libgles2-mesa-dev
+      - libgl1-mesa-glx
+      - freerdp2-x11
+
     state: latest
   become: true
   become_method: sudo
