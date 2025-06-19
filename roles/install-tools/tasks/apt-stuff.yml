@@ -54,6 +54,7 @@
       - theharvester
       - ghidra
       - ftp
+      - gobuster
       - android-tools-adb
       - dnsrecon
       - libgles2-mesa-dev
