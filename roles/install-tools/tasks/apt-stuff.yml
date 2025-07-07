@@ -60,6 +60,8 @@
       - libgles2-mesa-dev
       - libgl1-mesa-glx
       - freerdp2-x11
+      - mlocate
+      - gcc-mingw-w64
 
     state: latest
   become: true
