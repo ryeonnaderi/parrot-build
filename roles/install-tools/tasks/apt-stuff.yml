@@ -62,6 +62,7 @@
       - freerdp2-x11
       - mlocate
       - gcc-mingw-w64
+      - exploitdb
 
     state: latest
   become: true
