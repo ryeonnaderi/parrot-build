@@ -63,6 +63,7 @@
       - mlocate
       - gcc-mingw-w64
       - exploitdb
+      - cherrytree
 
     state: latest
   become: true
