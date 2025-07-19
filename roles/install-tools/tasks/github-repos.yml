@@ -15,6 +15,9 @@
     - { repo: "https://github.com/AzeemIdrisi/PhoneSploit-Pro", location: "/opt/PhoneSploit-Pro"}
     - { repo: "https://github.com/EntySec/Ghost", location: "/opt/Ghost"}
     - { repo: "https://github.com/brows3r/iPwn", location: "/opt/iPwn"}
+    - {repo : "https://github.com/lgandx/Responder", location: '/opt/Responder'}
+    - {repo : "https://github.com/fortra/impacket", location: '/opt/impacket'}
+
 
     
   become: true
