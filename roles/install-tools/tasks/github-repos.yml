@@ -15,6 +15,7 @@
     - { repo: "https://github.com/AzeemIdrisi/PhoneSploit-Pro", location: "/opt/PhoneSploit-Pro"}
     - { repo: "https://github.com/EntySec/Ghost", location: "/opt/Ghost"}
     - { repo: "https://github.com/brows3r/iPwn", location: "/opt/iPwn"}
+    - { repo: "https://github.com/ropnop/windapsearch.git", location: "/opt/windapsearch"}
 
     
   become: true
