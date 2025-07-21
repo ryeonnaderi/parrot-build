@@ -16,8 +16,9 @@
     - { repo: "https://github.com/EntySec/Ghost", location: "/opt/Ghost"}
     - { repo: "https://github.com/brows3r/iPwn", location: "/opt/iPwn"}
     - { repo: "https://github.com/ropnop/windapsearch.git", location: "/opt/windapsearch"}
-    - {repo : "https://github.com/lgandx/Responder", location: '/opt/Responder'}
-    - {repo : "https://github.com/fortra/impacket", location: '/opt/impacket'}
+    - { repo: "https://github.com/lgandx/Responder", location: '/opt/Responder'}
+    - { repo: "https://github.com/fortra/impacket", location: '/opt/impacket'}
+    - { repo: "https://github.com/yaap7/ldapsearch-ad.git", location: '/opt/ldapsearch'}
 
 
     
