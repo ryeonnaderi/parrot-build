@@ -19,7 +19,9 @@
     - { repo: "https://github.com/lgandx/Responder", location: '/opt/Responder'}
     - { repo: "https://github.com/fortra/impacket", location: '/opt/impacket'}
     - { repo: "https://github.com/yaap7/ldapsearch-ad.git", location: '/opt/ldapsearch'}
-    - { repo: "https://github.com/sm00v/Dehashed.git", location: '/opt/Dehashed' }
+    - { repo: "https://github.com/sm00v/Dehashed.git", location: '/opt/Dehashed'}
+    - { repo: "https://github.com/CiscoCXSecurity/enum4linux", location: '/opt/enum4linux'}
+    - { repo: "https://github.com/leoloobeek/LAPSToolkit", location: '/opt/LAPSToolkit' }
 
 
     
