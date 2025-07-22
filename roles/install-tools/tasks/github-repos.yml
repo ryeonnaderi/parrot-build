@@ -24,7 +24,7 @@
     - { repo: "https://github.com/leoloobeek/LAPSToolkit", location: '/opt/LAPSToolkit'}
     - {repo: "https://github.com/cgrates/rpcclient", location: '/opt/rpcclient'}
     - {repo: "https://github.com/SnaffCon/Snaffler", location: '/opt/Snaffler'}
-
+    - { repo: "https://github.com/dafthack/DomainPasswordSpray", location: 'opt/DomainPasswordSpray'}
 
     
   become: true
