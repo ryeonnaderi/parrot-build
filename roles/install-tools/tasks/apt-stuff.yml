@@ -64,6 +64,7 @@
       - gcc-mingw-w64
       - exploitdb
       - cherrytree
+      - bloodhound
 
     state: latest
   become: true
